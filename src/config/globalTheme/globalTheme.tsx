@@ -1,10 +1,10 @@
 import { createTheme } from "@mui/material";
-import { WHITE } from "../../styles/variables";
+import { LIGHT_PINK } from "../../styles/variables";
 
  const theme = createTheme({
     palette: {
       background: {
-        default: WHITE, // Color de fondo personalizado
+        default: LIGHT_PINK, // Color de fondo personalizado
       },
     },
 });
